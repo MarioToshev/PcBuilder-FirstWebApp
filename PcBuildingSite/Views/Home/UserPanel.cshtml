@@ -1,0 +1,37 @@
+﻿@model PcBuildingSite.Data.Models.Account.UserPanelModel
+@{
+    ViewData["Title"] = "UserPanel";
+}
+
+<h1>
+    Потребител: @User.Identity.Name
+    <input type="submit" class="logoutbutton" id="btnLogOut" value="Logout" onclick='window.location.href="@Url.Action("Login","Account")";' />
+    <button type="button" onclick="window.location.href = '../Computer/Create';" class="navigationbuttonsuserpanel">Построй</button>
+</h1>
+<hr />
+
+<div class="computers">
+    <iframe class="embed-responsive-item" src="../Computer/ComputerList" width="1200" height="615" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UserPanel">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="adminPassword" class="control-label"></label>
+                <input asp-for="adminPassword" class="form-control" />
+                <span asp-validation-for="adminPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Стани Администратор" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

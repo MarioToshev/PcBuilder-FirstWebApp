@@ -1,0 +1,75 @@
+﻿@model IEnumerable<PcBuildingSite.Data.Entities.Computer>
+@{
+    ViewData["Title"] = "Index";
+}
+<b>Моите компютри:</b>
+<br />
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.cpuModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gpuModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ramModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.motherboardModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.storageModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.psuModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.pcCaseModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cpuModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gpuModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ramModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.motherboardModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.storageModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.psuModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.pcCaseModel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.price)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+                    <a asp-action="CalculateFPS" asp-route-id="@item.id">CalculateFPS</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

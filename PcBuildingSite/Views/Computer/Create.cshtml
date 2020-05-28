@@ -1,0 +1,60 @@
+﻿@model PcBuildingSite.Data.Entities.Computer
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+    <h1>
+        <button type="button" onclick="window.location.href = 'Create';" class="navigationbuttons">Построй</button>
+        <button type="button" onclick="window.location.href = '../Home/UserPanel';" class="navigationbuttons" style="margin-left: 630px">@User.Identity.Name</button>
+        <input type="submit" class="logoutbutton" id="btnLogOut" value="Logout" onclick='window.location.href="@Url.Action("Login","Account")";' /> <br />
+    </h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="cpuModel" class="control-label"></label>
+                <input asp-for="cpuModel" class="form-control" />
+                <span asp-validation-for="cpuModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="gpuModel" class="control-label"></label>
+                <input asp-for="gpuModel" class="form-control" />
+                <span asp-validation-for="gpuModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ramModel" class="control-label"></label>
+                <input asp-for="ramModel" class="form-control" />
+                <span asp-validation-for="ramModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="motherboardModel" class="control-label"></label>
+                <input asp-for="motherboardModel" class="form-control" />
+                <span asp-validation-for="motherboardModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="storageModel" class="control-label"></label>
+                <input asp-for="storageModel" class="form-control" />
+                <span asp-validation-for="storageModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="psuModel" class="control-label"></label>
+                <input asp-for="psuModel" class="form-control" />
+                <span asp-validation-for="psuModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="pcCaseModel" class="control-label"></label>
+                <input asp-for="pcCaseModel" class="form-control" />
+                <span asp-validation-for="pcCaseModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" value="Създай" class="pcrelatedbuttons" style="width:80px" /> Създай
+                @*<button onclick="" class="pcrelatedbuttons" style="margin-left:5px">Отпечатай спецификации</button>*@
+            </div>
+        </form>
+    </div>
+</div>
+

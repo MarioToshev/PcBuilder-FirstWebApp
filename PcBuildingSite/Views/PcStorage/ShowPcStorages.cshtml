@@ -1,0 +1,63 @@
+﻿@model IEnumerable<PcBuildingSite.Data.Entities.PcStorage>
+
+@{
+    ViewData["Title"] = "ShowPcStorages";
+}
+
+<h1>Storages</h1>
+
+<p>
+    <a asp-action="AddPcStorage">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ssdOrHdd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.memeorySize)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.readSpeed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.writeSpeed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ssdOrHdd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.memeorySize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.readSpeed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.writeSpeed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                <a asp-action="DeletePcStorage" asp-route-id="@item.model">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

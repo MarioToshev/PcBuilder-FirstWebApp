@@ -1,0 +1,55 @@
+﻿@model PcBuildingSite.Data.Entities.PcStorage
+
+@{
+    ViewData["Title"] = "AddPcStorage";
+}
+
+    <h1>Add Storage</h1>
+
+<h4>Storage</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddPcStorage">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@Model.model" class="control-label"></label>
+                <input asp-for="@Model.model" class="form-control" />
+                <span asp-validation-for="@Model.model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.ssdOrHdd" class="control-label"></label>
+                <input asp-for="@Model.ssdOrHdd" class="form-control" />
+                <span asp-validation-for="@Model.ssdOrHdd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.memeorySize" class="control-label"></label>
+                <input asp-for="@Model.memeorySize" class="form-control" />
+                <span asp-validation-for="@Model.memeorySize" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.readSpeed" class="control-label"></label>
+                <input asp-for="@Model.readSpeed" class="form-control" />
+                <span asp-validation-for="@Model.readSpeed" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.writeSpeed" class="control-label"></label>
+                <input asp-for="@Model.writeSpeed" class="form-control" />
+                <span asp-validation-for="@Model.writeSpeed" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.price" class="control-label"></label>
+                <input asp-for="@Model.price" class="form-control" />
+                <span asp-validation-for="@Model.price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShowPcStorages">Back to List</a>
+</div>
+

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<PcBuildingSite.Data.Entities.Motherboard>
+
+@{
+    ViewData["Title"] = "ShowMotherboards";
+}
+
+<h1>Motherboards</h1>
+<p>
+    <a asp-action="AddMotherboard">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.socket)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ramSlots)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.formfactor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sliCrossfireSuport)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.suportedGeneration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.socket)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ramSlots)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.formfactor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sliCrossfireSuport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.suportedGeneration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                <a asp-action="DeleteMotherboard" asp-route-id="@item.model">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

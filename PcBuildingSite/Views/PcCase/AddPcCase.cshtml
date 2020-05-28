@@ -1,0 +1,38 @@
+﻿@model PcBuildingSite.Data.Entities.PcCase
+
+@{
+    ViewData["Title"] = "AddPcCase";
+}
+
+<h1>Add Pc Case</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddPcCase">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="model" class="control-label"></label>
+                <input asp-for="model" class="form-control" />
+                <span asp-validation-for="model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="formfactor" class="control-label"></label>
+                <input asp-for="formfactor" class="form-control" />
+                <span asp-validation-for="formfactor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShowPcCases">Back to List</a>
+</div>
+

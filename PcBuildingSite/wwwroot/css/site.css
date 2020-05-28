@@ -1,0 +1,191 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/*a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}*/
+
+/* Provide sufficient contrast against white background */
+/*a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/*.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/*html {
+  position: relative;
+  min-height: 100%;
+}*/
+
+/*body {
+  Margin bottom by footer height
+  margin-bottom: 60px;
+}*/
+/*.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there
+} */
+
+
+div.transbox {
+    margin: 250px;
+    padding: 15px;
+    background-color: #e3e3e3;
+    border: 2px solid black;
+    opacity: 0.9;
+    border-radius: 25px;
+    float: left;
+}
+
+    div.transbox p {
+        margin: 5%;
+        font-weight: bold;
+        color: #000000;
+    }
+
+.loginbuttons {
+    background-color: cyan;
+    border: 1px solid green;
+    color: black;
+    cursor: pointer;
+    float: left;
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-display: auto;
+    text-rendering: optimizeSpeed;
+}
+
+    .loginbuttons:hover {
+        background-color: blue;
+    }
+
+.navigationbuttons {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    float: left;
+    width: 200px;
+    height: 35px;
+    font-size: 18px;
+    font-display: auto;
+    text-rendering: optimizeSpeed;
+}
+
+    .navigationbuttons:hover {
+        background-color: lawngreen;
+    }
+
+.logoutbutton {
+    background-color: red;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    float: right;
+    width: 80px;
+    height: 35px;
+    font-size: 18px;
+    font-display: auto;
+    text-rendering: optimizeSpeed;
+}
+
+    .logoutbutton:hover {
+        background-color: darkred;
+    }
+
+.pcrelatedbuttons {
+    background-color: cyan;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    float: left;
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-display: auto;
+    text-rendering: optimizeSpeed;
+}
+
+    .pcrelatedbuttons:hover {
+        background-color: springgreen;
+    }
+
+div.gamebox {
+    padding: 10px;
+    background-color: #e3e3e3;
+    border: 2px solid black;
+    opacity: 0.9;
+    border-radius: 25px;
+    float: left;
+}
+
+    div.gamebox p {
+        margin: 5%;
+        font-weight: bold;
+        color: #000000;
+    }
+
+.navigationbuttonsuserpanel {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+    float: right;
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    font-display: auto;
+    text-rendering: optimizeSpeed;
+}
+
+    .navigationbuttonsuserpanel:hover {
+        background-color: lawngreen;
+    }

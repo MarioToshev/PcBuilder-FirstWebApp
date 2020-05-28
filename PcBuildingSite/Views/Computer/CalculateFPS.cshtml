@@ -1,0 +1,72 @@
+﻿@model PcBuildingSite.Data.Models.Component.CalculateFPSViewModel
+@{
+    ViewData["Title"] = "CalculateFPS";
+}
+
+    <div class="gamebox">
+        <img src="https://m.netinfo.bg/media/images/35352/35352160/896-504-fortnite-fortnajt.jpg" style="height: 280px; width: 480px" /> <br />
+        <b>Резолюция:</b> 1080p
+        <br />
+        <br />
+        <b>Epic:</b> @(Math.Round(Model.performance/400000)) FPS<br />
+        <b>High:</b> @(Math.Round(Model.performance/350000)) FPS<br />
+        <b>Medium:</b> @(Math.Round(Model.performance/300000)) FPS<br />
+        <b>Low:</b> @(Math.Round(Model.performance/200000)) FPS<br />
+    </div>
+
+    <div class="gamebox">
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg?t=1585696022" style="height: 265px; width: 500px" /> <br />
+        <b>Резолюция:</b> 1080p
+        <br />
+        <br />
+        <b>Very High:</b> @(Math.Round(Model.performance/250000)) FPS<br />
+        <b>High:</b> @(Math.Round(Model.performance/230000)) FPS<br />
+        <b>Medium:</b> @(Math.Round(Model.performance/210000)) FPS<br />
+        <b>Low:</b> @(Math.Round(Model.performance/180000)) FPS<br />
+        <b>Very Low:</b> @(Math.Round(Model.performance/150000)) FPS<br />
+    </div>
+
+    <div class="gamebox">
+        <img src="https://7sport.net/storage/league-of-legends-text4-e1586951649431.jpg" style="height: 255px; width: 480px" /> <br />
+        <b>Резолюция:</b> 1080p
+        <br />
+        <br />
+        <b>Very High:</b> @(Math.Round(Model.performance/270000)) FPS<br />
+        <b>High:</b> @(Math.Round(Model.performance/240000)) FPS<br />
+        <b>Medium:</b> @(Math.Round(Model.performance/230000)) FPS<br />
+        <b>Low:</b> @(Math.Round(Model.performance/180000)) FPS<br />
+        <b>Very Low:</b> @(Math.Round(Model.performance/150000)) FPS<br />
+    </div>
+
+    <div class="gamebox">
+        <img src="https://cdn-cf.gamivo.com/image_cover.jpg?f=119597&n=6021245134280779.jpg&h=e67c1fcb322c9fa404467300f6641460" style="height: 260px; width: 500px" /> <br />
+        <b>Резолюция:</b> 1080p
+        <br />
+        <br />
+        <b>Ultra:</b> @(Math.Round(Model.performance/300000)) FPS<br />
+        <b>High:</b> @(Math.Round(Model.performance/280000)) FPS<br />
+        <b>Good:</b> @(Math.Round(Model.performance/260000)) FPS<br />
+        <b>Fair:</b> @(Math.Round(Model.performance/240000)) FPS<br />
+        <b>Low:</b> @(Math.Round(Model.performance/220000)) FPS<br />
+    </div>
+
+    <div class="gamebox">
+        <img src="https://steamcdn-a.akamaihd.net/steam/apps/271590/header.jpg?t=1586539531" style="height: 255px; width: 480px" /> <br />
+        <b>Резолюция:</b> 1080p
+        <br />
+        <br />
+        <b>Ultra:</b> @(Math.Round(Model.performance/500000)) FPS<br />
+        <b>Very High:</b> @(Math.Round(Model.performance/480000)) FPS<br />
+        <b>Medium:</b> @(Math.Round(Model.performance/440000)) FPS<br />
+        <b>Normal:</b> @(Math.Round(Model.performance/400000)) FPS<br />
+    </div>
+
+    <div class="gamebox">
+        <img src="https://i1.wp.com/www.techarp.com/wp-content/uploads/2019/12/FREE-Rainbow-Six-Siege-Holiday-Nighthaven-Packs.jpg?fit=904%2C452&ssl=1" style="height: 255px; width: 480px" /> <br />
+        <b>Резолюция:</b> 1080p
+        <br />
+        <br />
+        <b>High:</b> @(Math.Round(Model.performance/350000)) FPS<br />
+        <b>Medium:</b> @(Math.Round(Model.performance/320000)) FPS<br />
+        <b>Low:</b> @(Math.Round(Model.performance/300000)) FPS<br /> <br /> <br />
+    </div>

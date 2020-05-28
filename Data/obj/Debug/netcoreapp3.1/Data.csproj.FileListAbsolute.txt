@@ -1,0 +1,9 @@
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Data\obj\Debug\netcoreapp3.1\Data.pdb

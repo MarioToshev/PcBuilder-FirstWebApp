@@ -1,0 +1,36 @@
+﻿@model PcBuildingSite.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body background="https://i.imgur.com/uo23Sgw.png">
+    <div class="transbox">
+        <center>
+            <form action="/action_page.php">
+                @*<label for="username">Username:</label>
+                    <input type="text" id="username" name="username"><br><br>
+                    <label for="password">Password:</label>
+                    <input type="text" id="password" name="password"><br><br>*@
+                <form asp-action="Login">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Влез" class="btn btn-primary" />
+                        <button type="button" onclick="window.location.href = '../Account/Register';">Регистрирай се</button>
+                    </div>
+                </form>
+
+            </form>
+        </center>
+    </div>
+
+</body>

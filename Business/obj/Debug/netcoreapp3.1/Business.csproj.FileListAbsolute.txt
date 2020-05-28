@@ -1,0 +1,12 @@
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\bin\Debug\netcoreapp3.1\Business.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\bin\Debug\netcoreapp3.1\Business.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\bin\Debug\netcoreapp3.1\Data.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\bin\Debug\netcoreapp3.1\Data.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete

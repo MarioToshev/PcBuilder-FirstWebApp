@@ -1,0 +1,45 @@
+﻿@model IEnumerable<PcBuildingSite.Data.Entities.PcCase>
+
+@{
+    ViewData["Title"] = "ShowPcCases";
+}
+
+<h1>Pc Cases</h1>
+
+<p>
+    <a asp-action="AddPcCase">Add Pc Case</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.formfactor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.formfactor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                <a asp-action="DeletePcCase" asp-route-id="@item.model">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

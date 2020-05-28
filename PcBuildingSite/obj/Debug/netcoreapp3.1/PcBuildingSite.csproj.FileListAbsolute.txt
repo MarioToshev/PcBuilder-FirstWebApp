@@ -1,0 +1,976 @@
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.exe
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csprojAssemblyReference.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.Manifest.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.xml
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfoInputs.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfo.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.input.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.output.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorCoreGenerate.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cs
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.deps.json
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.json
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.dev.json
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.pdb
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.MvcApplicationPartsAssemblyInfo.cache
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CopyComplete
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.dll
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.pdb
+E:\PC Part Picker\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddGPU.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.exe
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.deps.json
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.json
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.dev.json
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csprojAssemblyReference.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CoreCompileInputs.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfoInputs.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfo.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.input.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.output.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorCoreGenerate.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CopyComplete
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.Manifest.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.xml
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.genruntimeconfig.cache
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddGPU.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuildComputer.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\CalculateFPS.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserPanel.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.exe
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.deps.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.dev.json
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csprojAssemblyReference.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.Manifest.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.xml
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfoInputs.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfo.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.input.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.output.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorCoreGenerate.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuildComputer.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\CalculateFPS.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserPanel.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CopyComplete
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.pdb
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.genruntimeconfig.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Register.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CoreCompileInputs.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.MvcApplicationPartsAssemblyInfo.cache
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\PcBuilder\PcBuilder-master\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddGPU.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.exe
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.deps.json
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.json
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.dev.json
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csprojAssemblyReference.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfoInputs.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfo.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.input.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.output.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorCoreGenerate.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserPanel.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CopyComplete
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.Manifest.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.xml
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.genruntimeconfig.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CoreCompileInputs.cache
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.exe
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.deps.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.dev.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.input.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.output.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorCoreGenerate.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\BuildComputer.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\CalculateFPS.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserPanel.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CopyComplete
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.Manifest.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.xml
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCpu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\AddMotherboard.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\AddRam.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\AddPcCase.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\AddPcStorage.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.exe
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.deps.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.runtimeconfig.dev.json
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorAssemblyInfo.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.input.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.TagHelpers.output.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorCoreGenerate.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCpu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\AddGPU.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\CalculateFPS.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserPanel.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\AddMotherboard.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\AddPcCase.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\AddPcStorage.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\AddRam.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.RazorTargetAssemblyInfo.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.Views.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.csproj.CopyComplete
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.Manifest.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\staticwebassets\PcBuildingSite.StaticWebAssets.xml
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.dll
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.pdb
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\PcBuildingSite.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PSU\AddPsu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Create.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Delete.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Details.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Edit.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\ShowCpu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\ComputerList.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\DeleteCpu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\DeleteGpu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\ShowGpu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\DeleteMotherboard.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\ShowMotherboards.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\DeletePcCase.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\ShowPcCases.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\DeletePcStorage.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\ShowPcStorages.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PSU\DeletePsu.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PSU\ShowPsus.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\DeleteRam.cshtml.g.cs
+C:\Users\mario\OneDrive\Работен плот\PcBuildingSite Repo\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\ShowRams.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\ComputerList.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Create.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Delete.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Details.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\Edit.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\AddCpu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\DeleteCpu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\CPU\ShowCpu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\DeleteGpu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\GPU\ShowGpu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\AddMotherboard.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\DeleteMotherboard.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Motherboard\ShowMotherboards.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\AddPcCase.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\DeletePcCase.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcCase\ShowPcCases.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\AddPcStorage.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\DeletePcStorage.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PcStorage\ShowPcStorages.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PSU\AddPsu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PSU\DeletePsu.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\PSU\ShowPsus.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\AddRam.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\DeleteRam.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Ram\ShowRams.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Computer\CalculateFPS.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminPanel.cshtml.g.cs
+C:\Users\RADI\Downloads\PcBuildingSite\PcBuildingSite\bin\Debug\netcoreapp3.1\appsettings.json

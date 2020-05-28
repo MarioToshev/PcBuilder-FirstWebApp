@@ -1,0 +1,81 @@
+﻿@model IEnumerable<PcBuildingSite.Data.Entities.Gpu>
+
+@{
+    ViewData["Title"] = "ShowGpu";
+}
+
+<h1>GPUs</h1>
+
+<p>
+    <a asp-action="AddGpu">Add GPU</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.frequency)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.vramSpeed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cores)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.rtCores)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.memoryQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tdp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SliCrossfireSupport)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.frequency)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vramSpeed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cores)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.rtCores)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.memoryQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tdp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SliCrossfireSupport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>               
+                <a asp-action="DeleteGpu" asp-route-id="@item.model">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

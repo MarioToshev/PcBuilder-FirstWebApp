@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PcBuildingSite.Data.Entities.RAM>
+
+@{
+    ViewData["Title"] = "ShowRams";
+}
+
+<h1>RAMs</h1>
+
+<p>
+    <a asp-action="AddRam">Add Ram</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.frequency)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.memorysize)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.frequency)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.memorysize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                <a asp-action="DeleteRam" asp-route-id="@item.model">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

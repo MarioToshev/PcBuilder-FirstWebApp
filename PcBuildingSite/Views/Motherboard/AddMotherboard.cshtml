@@ -1,0 +1,60 @@
+﻿@model PcBuildingSite.Data.Entities.Motherboard
+
+@{
+    ViewData["Title"] = "AddMotherboard";
+}
+
+<h1>Add Motherboard</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddMotherboard">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="model" class="control-label"></label>
+                <input asp-for="model" class="form-control" />
+                <span asp-validation-for="model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="socket" class="control-label"></label>
+                <input asp-for="socket" class="form-control" />
+                <span asp-validation-for="socket" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ramSlots" class="control-label"></label>
+                <input asp-for="ramSlots" class="form-control" />
+                <span asp-validation-for="ramSlots" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="formfactor" class="control-label"></label>
+                <input asp-for="formfactor" class="form-control" />
+                <span asp-validation-for="formfactor" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="sliCrossfireSuport" /> @Html.DisplayNameFor(model => model.sliCrossfireSuport)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="suportedGeneration" class="control-label"></label>
+                <input asp-for="suportedGeneration" class="form-control" />
+                <span asp-validation-for="suportedGeneration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input 
+                       
+                       type="submit" value="Create" class="btn btn-primary"  />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShowMotherboards">Back to List</a>
+</div>
+

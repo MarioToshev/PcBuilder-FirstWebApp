@@ -1,0 +1,40 @@
+﻿@model PcBuildingSite.Data.Entities.PSU
+
+@{
+    ViewData["Title"] = "AddPsu";
+}
+
+<h1>Add PSU</h1>
+
+<h4>PSU</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddPsu">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="model" class="control-label"></label>
+                <input asp-for="model" class="form-control" />
+                <span asp-validation-for="model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="powerEfficiency" class="control-label"></label>
+                <input asp-for="powerEfficiency" class="form-control" />
+                <span asp-validation-for="powerEfficiency" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShowPsus">Back to List</a>
+</div>
+

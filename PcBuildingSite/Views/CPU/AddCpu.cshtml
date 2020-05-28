@@ -1,0 +1,70 @@
+﻿@model PcBuildingSite.Data.Entities.CPU
+
+@{
+    ViewData["Title"] = "AddCpu";
+}
+
+<h1>AddCpu</h1>
+
+<h4>CPU</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddCpu">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="model" class="control-label"></label>
+                <input asp-for="model" class="form-control" />
+                <span asp-validation-for="model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="socket" class="control-label"></label>
+                <input asp-for="socket" class="form-control" />
+                <span asp-validation-for="socket" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="frequency" class="control-label"></label>
+                <input asp-for="frequency" class="form-control" />
+                <span asp-validation-for="frequency" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cores" class="control-label"></label>
+                <input asp-for="cores" class="form-control" />
+                <span asp-validation-for="cores" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="threads" class="control-label"></label>
+                <input asp-for="threads" class="form-control" />
+                <span asp-validation-for="threads" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tdp" class="control-label"></label>
+                <input asp-for="tdp" class="form-control" />
+                <span asp-validation-for="tdp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cpuBrand" class="control-label"></label>
+                <input asp-for="cpuBrand" class="form-control" />
+                <span asp-validation-for="cpuBrand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="generation" class="control-label"></label>
+                <input asp-for="generation" class="form-control" />
+                <span asp-validation-for="generation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ShowCpu">Back to List</a>
+</div>
+

@@ -1,0 +1,61 @@
+﻿@model PcBuildingSite.Data.Entities.Computer
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Computer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="id" />
+            <div class="form-group">
+                <label asp-for="cpuModel" class="control-label"></label>
+                <input asp-for="cpuModel" class="form-control" />
+                <span asp-validation-for="cpuModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="gpuModel" class="control-label"></label>
+                <input asp-for="gpuModel" class="form-control" />
+                <span asp-validation-for="gpuModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ramModel" class="control-label"></label>
+                <input asp-for="ramModel" class="form-control" />
+                <span asp-validation-for="ramModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="motherboardModel" class="control-label"></label>
+                <input asp-for="motherboardModel" class="form-control" />
+                <span asp-validation-for="motherboardModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="storageModel" class="control-label"></label>
+                <input asp-for="storageModel" class="form-control" />
+                <span asp-validation-for="storageModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="psuModel" class="control-label"></label>
+                <input asp-for="psuModel" class="form-control" />
+                <span asp-validation-for="psuModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="pcCaseModel" class="control-label"></label>
+                <input asp-for="pcCaseModel" class="form-control" />
+                <span asp-validation-for="pcCaseModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ComputerList">Back to List</a>
+</div>
+
